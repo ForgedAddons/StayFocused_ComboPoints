@@ -1,0 +1,9 @@
+## Interface: 40200
+## Title: |cffa0a0f0Stay Focused!|r Combo Points
+## Description: Module to show combo points in Stay Focused! statusbar text.
+## Author: Drauer
+## Version: 40200.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Dependencies: StayFocused
+StayFocused_ComboPoints.lua
